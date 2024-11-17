@@ -348,11 +348,11 @@
 }
 
 .footer__column_content_hours {
-  margin: 0 40px 0 auto;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
-  margin-left: 40px;
+  margin-left: 80px;
 }
 
 .footer__logo {
